@@ -1,2 +1,2 @@
-id;nom;prenom;poste;lieu;adresse;ordinateur fixe;ordinateur portable;telephone fixe;telephone portable;bagder d'entrée;casque audio;classe mobile;station d'accueil;nombre ecran
+id;nom;prenom;poste;lieu;adresse;ordinateur fixe;ordinateur portable;telephone fixe;telephone portable;bagde;casque;mobile;station d'accueil;nombre ecran
 3;Chattenet;Christophe;Technicien informatique;Reims;4 rue des bazards;0;1;0;1;1;1;0;1;2

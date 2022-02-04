@@ -1,2 +1,2 @@
-id;nom;prenom;poste;lieu;adresse;ordinateur fixe;ordinateur portable;telephone fixe;telephone portable;bagder d'entrée;casque audio;classe mobile;station d'accueil;nombre ecran
+id;nom;prenom;poste;lieu;adresse;ordinateur fixe;ordinateur portable;telephone fixe;telephone portable;bagde;casque;classe mobile;station d'accueil;nombre ecran
 2;Saraiva;Luis;Concepteur Développeur d'Application;Reims;19 rue des flandes;0;1;0;0;1;1;0;1;2
