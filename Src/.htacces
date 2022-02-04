@@ -1,0 +1,4 @@
+AuthUserFile replacerParCheminAbsoluHtpasswd
+AuthName "Connexion Privé"
+AuthType Basic
+Require valid-user
