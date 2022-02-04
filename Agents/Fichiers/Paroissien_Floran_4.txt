@@ -1,0 +1,2 @@
+id;nom;prenom;poste;lieu;adresse;ordinateur fixe;ordinateur portable;telephone fixe;telephone portable;bagder d'entrée;casque audio;classe mobile;station d'accueil;nombre ecran
+4;Paroissien;Floran;Etudiant Epsi;Reims;4c allée des lilas;0;0;0;0;0;0;0;0;0

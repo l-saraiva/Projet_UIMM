@@ -1,0 +1,2 @@
+id;nom;prenom;poste;lieu;adresse;ordinateur fixe;ordinateur portable;telephone fixe;telephone portable;bagder d'entrée;casque audio;classe mobile;station d'accueil;nombre ecran
+1;Langlet;Nathan;Développeur web;Reims;20b rue marie clémence fouriaux;0;1;0;0;1;1;0;1;3
